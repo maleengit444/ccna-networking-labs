@@ -1,6 +1,6 @@
- CCNA Networking Labs
+# CCNA Networking Labs
 
-Cisco CCNA 1: Introduction to Networks  
+**Cisco CCNA 1: Introduction to Networks**  
 Hands-on Packet Tracer Labs & Configurations
 
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue) 
@@ -8,42 +8,41 @@ Hands-on Packet Tracer Labs & Configurations
 
 ---
 
- 📋 About
+## 📋 About
 
-This repository showcases my practical networking skills through **newly built labs** based on CCNA 1 curriculum (Introduction to Networks). Even though some previous exam files were lost, I have rebuilt and documented key concepts with clean, well-organized projects.
+This repository showcases my practical networking skills through **newly built labs** based on CCNA 1 curriculum.
 
-Status: CCNA 1 – Completed (2026)
+**Status**: CCNA 1 – Completed (2026)
 
 ---
 
- 🛠️ Labs Included
+## 🛠️ Lab 1: Basic Router & Switch Configuration
 
- 1. Basic Router & Switch Configuration
-- Hostname, banners, passwords, interface configuration
-- SSH setup and security best practices
+- Hostname, banners, passwords, interface configuration  
+- SSH security setup  
+- Console and VTY line configuration
 
- 2. IP Addressing & Subnetting Challenge
-- Designed and implemented a network with proper IPv4 addressing
-- VLSM (Variable Length Subnet Masking) applied
+### 📁 Files
+- **[Packet Tracer File](Lab%201-Basic-Configuration/BASIC%20DEVICE%20CONFIGURATION%20AND%20SECURITY.pkt)**  
+- **[Topology](Lab%201-Basic-Configuration/topology.png)**  
+- **[Ping Test](Lab%201-Basic-Configuration/Pingtest.png)**
 
- 3. VLANs & Inter-VLAN Routing
-- Configured multiple VLANs
-- Router-on-a-Stick inter-VLAN routing
-- Trunking between switch and router
+### 📸 Screenshots
 
+![Topology](Lab%201-Basic-Configuration/topology.png)
 
- 📸 Screenshots
+![Ping Test](Lab%201-Basic-Configuration/Pingtest.png)
 
+---
 
+## Next Steps
+- Lab 2: IP Addressing & Subnetting
+- Lab 3: VLANs & Inter-VLAN Routing
 
-- Network topologies
-- Successful connectivity tests (ping)
-- Configuration outputs
+---
 
- 🎯 Goal
+## 🔗 Connect With Me
+**Email**: obatomaleen16@gmail.com  
+Open to **Networking, IT Support, or Graduate Trainee** roles!
 
-To demonstrate strong foundational networking knowledge through **practical, well-documented labs** that I can confidently explain in interviews.
-
- 🔗 Let's Connect
-- Email: obatomaleen16@gmail.com
-- Open to IT Support, Networking, or Graduate Trainee roles!
+---
